@@ -11,3 +11,8 @@ quote we should all learn to understand, and so we have to understand, not every
 <p>If a person wishes to preach 'hate', that is their choice to do so and why it is not right to attack another person's belief. We can however produce the ways and
 means, so that not everyone sees the content they want to share. This is also why we are developing the platform, as a decentralised network with <strong>'Master Nodes'</strong> and each
 <strong>'Master Node'</strong> is developed to work in conjunction, with the laws and regulations of that country and so offering a 'decentralised' User & Law governed platform.</p>
+
+<ul>
+<li>Docker Supported: Our core <strong>Peer 2 Peer Network</strong>, in order to make it 'decentralised' and available for anyone to run a <strong>'Worker Node'</strong>, is built 
+    using Docker Swarm and you only need <a href="https://www.docker.com/products/docker-desktop/">Docker Desktop</a> to run it.</li>
+</ul>
