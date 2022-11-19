@@ -14,5 +14,6 @@ means, so that not everyone sees the content they want to share. This is also wh
 
 <ul>
 <li>Docker Supported: Our core <strong>Peer 2 Peer Network</strong>, in order to make it 'decentralised' and available for anyone to run a <strong>'Worker Node'</strong>, is built 
-    using Docker Swarm and you only need <a href="https://www.docker.com/products/docker-desktop/">Docker Desktop</a> to run it.</li>
+    using Docker Swarm and so you only need <a href="https://www.docker.com/products/docker-desktop/">Docker Desktop</a> to run it.</li>
+<li>Our Api is built using <a href="https://nestjs.com">NestJS</a>, <a href="https://typeorm.io">TypeOrm[Postgres]</a>, with <a href="https://swagger.io/specification/">OpenApi</a> using swagger.</li>
 </ul>
